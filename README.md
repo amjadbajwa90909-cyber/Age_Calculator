@@ -1,2 +1,2 @@
 # Delete-It
-This is a folder to be deleted 
+<b>This is a folder to be deleted <b>
